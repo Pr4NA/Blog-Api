@@ -1,0 +1,39 @@
+.body {
+    max-width: 400px ;
+    margin: 50px auto ;
+    padding: 20px ;
+    border: 1px solid #ccc ;
+    border-radius: 8px ;
+  }
+  
+  .signUpHeading {
+    text-align: center ;
+  }
+  
+  .input {
+    margin-bottom: 15px ;
+  }
+  label {
+    display: block ;
+    margin-bottom: 5px ;
+  }
+  input {
+    width: 100% ;
+    padding: 8px ;
+    font-size: 14px ;
+  }
+  
+  button {
+    width: 100% ;
+    padding: 10px ;
+    background-color: #28a745 ;
+    color: #fff ;
+    border: none ;
+    border-radius: 4px ;
+    cursor: pointer ;
+  }
+  
+  .message {
+    margin-top: 20px ;
+    text-align: center ;
+  }
